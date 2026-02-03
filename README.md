@@ -72,8 +72,8 @@ The dataset contains customer information like:
 
 ### Step 1: Clone the repository
 ```bash
-git clone <your-github-repo-link>
-cd <repo-folder-name>
+git clone <https://github.com/dharani834/personal-loan-prediction.git>
+cd <personal-loan-prediction>
 ###Step 2: Install required libraries
 pip install -r requirements.txt
 ###Step 3: Run the Streamlit app
